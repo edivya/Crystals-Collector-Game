@@ -1,4 +1,4 @@
-# Crystals Collector Game (unit-4-game)
+# Crystals Collector Game 
 
 **Description on how to use the app**
 
