@@ -24,6 +24,7 @@
 ## Tools
 
 - html
+- css
 
 ## Screenshots
 
