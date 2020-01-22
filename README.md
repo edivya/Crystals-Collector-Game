@@ -25,6 +25,7 @@
 
 - html
 - css
+- javascript
 
 ## Screenshots
 
