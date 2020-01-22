@@ -26,6 +26,7 @@
 - html
 - css
 - javascript
+- Bootstrap
 
 ## Screenshots
 
