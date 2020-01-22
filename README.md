@@ -24,3 +24,5 @@
 ## Screenshots
 
 ![Crystal-Collector](https://github.com/edivya/Crystals-Collector-Game/blob/master/assets/images/Crystals%20Collector.png)
+
+![Crystal-Collector](<https://github.com/edivya/Crystals-Collector-Game/blob/master/assets/images/Crystals%20Collector(1).png>)
